@@ -1,2 +1,2 @@
 # Bootstrap-4
-Example of Bootstrap 4 web design.
+Straightforward example of Bootstrap 4 web design.
